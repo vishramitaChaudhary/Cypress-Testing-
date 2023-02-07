@@ -6,6 +6,8 @@ function sum(a, b){
 //console.log("Hello");
 var d=4
 let e=4
+
+let g =7
 //console.log(d)
 
 let c = "vishra"
